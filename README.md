@@ -1,7 +1,7 @@
 
 # Micro Blog 
 
-A liteweight micro bloging application build with laravel and vuejs
+A lightweight micro bloging application build with laravel and vuejs
 
 
 ## Features
